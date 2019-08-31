@@ -1,0 +1,38 @@
+html {
+  background: url("https://image.freepik.com/free-vector/gradient-geometric-shape-background_78532-374.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 2.5rem;
+  color: black;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

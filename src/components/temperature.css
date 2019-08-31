@@ -1,0 +1,19 @@
+.thermostat {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.temperature {
+    font-size: 60px;
+}
+
+button {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    background-color:rgb(71, 66, 66);
+    width: 10%;
+    height: 10%;
+}
+
